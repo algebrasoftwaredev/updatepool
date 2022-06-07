@@ -1,0 +1,93 @@
+{\rtf1\ansi\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red255\green255\blue255;}
+{\*\generator Riched20 10.0.22000}\viewkind4\uc1 
+\pard\cf1\f0\fs20\lang1031 <!DOCTYPE HTML>\par
+<!DOCTYPE html PUBLIC "" ""><HTML lang="de" itemtype="http://schema.org/WebPage" \par
+itemscope=""><HEAD>\par
+<META http-equiv="X-UA-Compatible" content="IE=edge">\par
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">\par
+<META content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" \par
+itemprop="image"><TITLE>Google</TITLE>\par
+<SCRIPT nonce="cgY8aR7Xd0ySm0rRH2SC/A==">(function()\{window.google=\{kEI:'nzm_Yb6MIa-H9u8PpLiWwAU',kEXPI:'0,1302536,56873,6058,207,4804,921,1395,383,246,5,1354,4013,1238,1122515,1197791,626,380074,16114,17444,1953,9287,17572,4858,1362,9290,3026,17583,4020,978,13228,3847,4192,6430,7432,7331,7059,919,2370,2711,1593,1279,2212,241,289,149,1103,840,1983,4314,109,4011,2023,2297,14670,3227,419,2426,7,12354,5096,16320,908,2,941,15756,1,2,576,6182,277,149,13975,4,1528,2304,6462,577,4684,18350,2039,2658,7357,30,13628,1592,713,2132,16786,5830,2527,4092,2,17,3121,6,908,3,3541,1,1824,14700,283,912,5992,18443,2,14022,1931,92,3817,2423,5853,3695,5179,531,460,598,1160,5679,1020,2381,2718,2989,5607,6291,3374,2,1,9,7751,2124,2444,2577,3124,551,4330,2393,3781,2,1514,2,6612,2172,2618,237,1,3,1,1010,4606,2,1,9,1561,7490,3427,326,613,128,2640,1542,37,1270,1483,2770,258,1357,495,137,973,99,1330,513,1,1,1407,102,1481,4152,35,4044,1863,756,494,833,1152,217,1,1091,2,1,3444,3,116,204,1036,203,23,709,6,2,397,591,5,256,153,154,1252,10,1,197,239,320,335,391,998,1357,844,3558,204,148,111,2,1351,833,2663,2,6,11,591,442,193,190,186,809,122,56,2,3377,5511251,2031,446,589,22,1802278,4193979,259,2800438,882,444,1,2,80,1,1796,1,9,2553,1,748,141,795,563,1,4265,1,1,2,1331,4142,2609,155,17,13,72,139,4,2,20,2,169,13,19,46,5,39,96,548,29,2,2,1,2,1,2,2,7,4,1,2,2,2,2,2,2,353,513,186,1,1,158,3,2,2,2,2,2,4,2,3,3,269,1601,106,24,2,4,1,4,64,3,3,40,2,2,2,9,2,2,2,1,23952849,2772894,89132,1179325,338,3,2414,1491,9,1435,159,1358,1128,3,3595,3,925,1541,1995',kBL:'4JUY'\};google.sn='webhp';google.kHL='de';\})();(function()\{\par
+var f=this||self;var h,k=[];function l(a)\{for(var b;a&&(!a.getAttribute||!(b=a.getAttribute("eid")));)a=a.parentNode;return b||h\}function m(a)\{for(var b=null;a&&(!a.getAttribute||!(b=a.getAttribute("leid")));)a=a.parentNode;return b\}\par
+function n(a,b,c,d,g)\{var e="";c||-1!==b.search("&ei=")||(e="&ei="+l(d),-1===b.search("&lei=")&&(d=m(d))&&(e+="&lei="+d));d="";!c&&f._cshid&&-1===b.search("&cshid=")&&"slh"!==a&&(d="&cshid="+f._cshid);c=c||"/"+(g||"gen_204")+"?atyp=i&ct="+a+"&cad="+b+e+"&zx="+Date.now()+d;/^http:/i.test(c)&&"https:"===window.location.protocol&&(google.ml&&google.ml(Error("a"),!1,\{src:c,glmm:1\}),c="");return c\};h=google.kEI;google.getEI=l;google.getLEI=m;google.ml=function()\{return null\};google.log=function(a,b,c,d,g)\{if(c=n(a,b,c,d,g))\{a=new Image;var e=k.length;k[e]=a;a.onerror=a.onload=a.onabort=function()\{delete k[e]\};a.src=c\}\};google.logUrl=n;\}).call(this);(function()\{\par
+google.y=\{\};google.sy=[];google.x=function(a,b)\{if(a)var c=a.id;else\{do c=Math.random();while(google.y[c])\}google.y[c]=[a,b];return!1\};google.sx=function(a)\{google.sy.push(a)\};google.lm=[];google.plm=function(a)\{google.lm.push.apply(google.lm,a)\};google.lq=[];google.load=function(a,b,c)\{google.lq.push([[a],b,c])\};google.loadAll=function(a,b)\{google.lq.push([a,b])\};google.bx=!1;google.lx=function()\{\};\}).call(this);google.f=\{\};(function()\{\par
+document.documentElement.addEventListener("submit",function(b)\{var a;if(a=b.target)\{var c=a.getAttribute("data-submitfalse");a="1"===c||"q"===c&&!a.elements.q.value?!0:!1\}else a=!1;a&&(b.preventDefault(),b.stopPropagation())\},!0);document.documentElement.addEventListener("click",function(b)\{var a;a:\{for(a=b.target;a&&a!==document.documentElement;a=a.parentElement)if("A"===a.tagName)\{a="1"===a.getAttribute("data-nohref");break a\}a=!1\}a&&b.preventDefault()\},!0);\}).call(this);</SCRIPT>\par
+\par
+<STYLE>#gbar,#guser\{font-size:13px;padding-top:1px !important;\}#gbar\{height:22px\}#guser\{padding-bottom:7px !important;text-align:right\}.gbh,.gbd\{border-top:1px solid #c9d7f1;font-size:1px\}.gbh\{height:0;position:absolute;top:24px;width:100%\}@media all\{.gb1\{height:22px;margin-right:.5em;vertical-align:top\}#gbar\{float:left\}\}a.gb1,a.gb4\{text-decoration:underline !important\}a.gb1,a.gb4\{color:#00c !important\}.gbi .gb4\{color:#dd8e27 !important\}.gbf .gb4\{color:#900 !important\}\par
+</STYLE>\par
+\par
+<STYLE>body,td,a,p,.h\{font-family:arial,sans-serif\}body\{margin:0\}#gog\{padding:3px 10px 0\}td\{line-height:.8em\}.gac_m td\{line-height:17px\}form\{margin-bottom:20px\}.h\{color:#1558d6\}em\{font-weight:bold;font-style:normal\}.lst\{height:25px;width:496px\}.gsfi,.lst\{font:18px arial,sans-serif\}.gsfs\{font:17px arial,sans-serif\}.ds\{display:-ms-inline-box;display:inline-block;margin:3px 0 4px;margin-left:4px\}input\{font-family:inherit\}body\{background:#fff;color:#000\}a\{color:#4b11a8;text-decoration:none\}a:hover,a:active\{text-decoration:underline\}.fl a\{color:#1558d6\}a:visited\{color:#4b11a8\}.sblc\{padding-top:5px\}.sblc a\{display:block;margin:2px 0;margin-left:13px;font-size:11px\}.lsbb\{background:#f8f9fa;border:solid 1px;border-color:#dadce0 #70757a #70757a #dadce0;height:30px\}.lsbb\{display:inline-block\}#WqQANb a\{display:inline-block;margin:0 12px\}.lsb\{background:url(/images/nav_logo229.png) 0 -261px repeat-x;border:none;color:#000;cursor:pointer;height:30px;margin:0;outline:0;font:15px arial,sans-serif;vertical-align:top\}.lsb\{overflow:visible;padding:0 6px;width:auto\}.lsb:active\{background:#dadce0\}.lst:focus\{outline:none\}</STYLE>\par
+\par
+<SCRIPT nonce="cgY8aR7Xd0ySm0rRH2SC/A==">(function()\{window.google.erd=\{jsr:1,bv:1493,sd:true,de:true\};\par
+var f=this||self;var g,h,k=null!==(g=f.mei)&&void 0!==g?g:1,l=null!==(h=f.sdo)&&void 0!==h?h:!0,p=0,q,r=google.erd,u=r.jsr;google.ml=function(a,b,d,m,c)\{c=void 0===c?2:c;b&&(q=a&&a.message);if(google.dl)return google.dl(a,c,d),null;if(0>u)\{window.console&&console.error(a,d);if(-2===u)throw a;b=!1\}else b=!a||!a.message||"Error loading script"===a.message||p>=k&&!m?!1:!0;if(!b)return null;p++;d=d||\{\};var e=c;c=encodeURIComponent;b="/gen_204?atyp=i&ei="+c(google.kEI);google.kEXPI&&(b+="&jexpid="+c(google.kEXPI));b+="&srcpg="+c(google.sn)+"&jsr="+c(r.jsr)+"&bver="+c(r.bv)+("&jsel="+e);e=a.lineNumber;void 0!==e&&(b+="&line="+\par
+e);var n=a.fileName;n&&(b+="&script="+c(n),e&&n===window.location.href&&(e=document.documentElement.outerHTML.split("\\n")[e],b+="&cad="+c(e?e.substring(0,300):"No script found.")));for(var t in d)b+="&",b+=c(t),b+="=",b+=c(d[t]);b=b+"&emsg="+c(a.name+": "+a.message);b=b+"&jsst="+c(a.stack||"N/A");12288<=b.length&&(b=b.substr(0,12288));a=b;m||google.log(0,"",a);return a\};window.onerror=function(a,b,d,m,c)\{q!==a&&(a=c instanceof Error?c:Error(a),void 0===d||"lineNumber"in a||(a.lineNumber=d),void 0===b||"fileName"in a||(a.fileName=b),google.ml(a,!1,void 0,!1,"SyntaxError"===a.name||"SyntaxError"===a.message.substring(0,11)?2:0));q=null;l&&p>=k&&(window.onerror=null)\};\})();</SCRIPT>\par
+\par
+<STYLE type="text/css">.gsib_a\{width:100%;padding:4px 6px 0\}.gsib_a input::-ms-clear\{display: none\}.gsib_a,.gsib_b\{vertical-align:top\}.gssb_c\{border:0;position:absolute;z-index:989\}.gssb_e\{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-ms-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default\}.gssb_f\{visibility:hidden;white-space:nowrap\}.gssb_k\{border:0;display:block;position:absolute;top:0;z-index:988\}.gsdd_a\{border:none!important\}.gsmq_a\{padding:0\}a.gspqs_a\{padding:0 3px 0 8px\}.gspqs_b\{color:#666;line-height:22px\}.gsls_a\{color:red\}.gsn_a\{padding-top:4px;padding-bottom:1px\}.gsn_b\{display:block;line-height:16px\}.gsn_c\{color:green;font-size:13px\}.gsq_a\{padding:0\}.gssb_a\{padding:0 7px\}.gssb_a,.gssb_a td\{white-space:nowrap;overflow:hidden;line-height:22px\}#gssb_b\{font-size:11px;color:#36c;text-decoration:none\}#gssb_b:hover\{font-size:11px;color:#36c;text-decoration:underline\}.gssb_g\{text-align:center;padding:8px 0 7px;position:relative\}.gssb_h\{font-size:15px;height:28px;margin:0.2em\}.gssb_i\{background:#eee\}.gss_ifl\{visibility:hidden;padding-left:5px\}.gssb_i .gss_ifl\{visibility:visible\}a.gssb_j\{font-size:13px;color:#36c;text-decoration:none;line-height:100%\}a.gssb_j:hover\{text-decoration:underline\}.gssb_l\{height:1px;background-color:#e5e5e5\}.gssb_m\{color:#000;background:#fff\}a.gspqs_a\{padding-left:0\}.gssb_e\{border-top:1px solid #a2bff0;border-right:1px solid #558be3;border-bottom:1px solid #558be3;border-left:1px solid #a2bff0;\}.gssb_i\{background:#d5e2ff\}</STYLE>\par
+</HEAD>\par
+<BODY bgcolor="#fff">\par
+<SCRIPT nonce="cgY8aR7Xd0ySm0rRH2SC/A==">(function()\{var src='/images/nav_logo229.png';var iesg=true;document.body.onload = function()\{window.n && window.n();if (document.images)\{new Image().src=src;\}\par
+if (!iesg)\{document.f&&document.f.q.focus();document.gbqf&&document.gbqf.q.focus();\}\par
+\}\par
+\})();</SCRIPT>\par
+\par
+<DIV id="mngb">\par
+<DIV id="guser" width="100%"><NOBR><BR></NOBR></DIV>\par
+<DIV class="gbh" style="left: 0px;"></DIV>\par
+<DIV class="gbh" style="right: 0px;"></DIV></DIV>\par
+<CENTER><BR id="lgpd" clear="all">\par
+<DIV id="lga"><BR><BR></DIV>\par
+<FORM name="f" action="/search">\par
+<TABLE cellspacing="0" cellpadding="0">\par
+  <TBODY>\par
+  <TR valign="top">\par
+    <TD width="25%">&nbsp;</TD>\par
+    <TD align="center" \par
+nowrap=""><INPUT name="hl" type="hidden" value="de"><INPUT name="source" type="hidden" value="hp"><INPUT name="biw" type="hidden"><INPUT name="bih" type="hidden"><BR \par
+      style="line-height: 0;"><SPAN class="ds"></SPAN><SPAN \par
+class="ds"></SPAN></TD>\par
+    <TD width="25%" align="left" class="fl sblc" \par
+nowrap=""></TD></TR></TBODY></TABLE><INPUT name="gbv" id="gbv" type="hidden" value="2">\par
+<SCRIPT nonce="cgY8aR7Xd0ySm0rRH2SC/A=="><U>(function()\{\par
+var a,b="1";if(document&amp;&amp;document.getElementById)if("undefined"!=typeof XMLHttpRequest)b="2";else if("undefined"!=typeof ActiveXObject)\{var c,d,e=["MSXML2.XMLHTTP.6.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"];for(c=0;d=e[c++];)try\{new ActiveXObject(d),b="2"\}catch(h)\{\}\}a=b;if("2"==a&amp;&amp;-1==location.search.indexOf("&amp;gbv=2"))\{var f=google.gbvu,g=document.getElementById("gbv");g&amp;&amp;(g.value=a);f&amp;&amp;window.setTimeout(function()\{location.href=f\},0)\};\}).call(this);</U></SCRIPT>\par
+<INPUT name="oq" type="hidden"><INPUT name="gs_l" type="hidden"></FORM>\par
+<DIV id="gac_scont"></DIV>\par
+<DIV \par
+style="width: 1182px; height: 672px; font-size: 83%; min-height: 3.5em;"><IMG \par
+width="272" height="92" id="hplogo" style="padding: 28px 0px 14px; width: 180px; height: 57px;" \par
+alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png"><SPAN \par
+class="lsbb"><INPUT name="btnI" class="lsb" id="tsuid1" type="submit" value="Auf gut Gl\'fcck!"></SPAN><SPAN \par
+class="lsbb"><INPUT name="btnG" class="lsb" type="submit" value="Google Suche"></SPAN><INPUT name="q" title="Google Suche" class="lst" style="margin: 0px; padding: 5px 8px 0px 6px; width: 707px; height: 32px; color: rgb(0, 0, 0); vertical-align: top;" dir="ltr" spellcheck="false" size="1" maxlength="2048" autocomplete="off"><BR></DIV><SPAN \par
+id="footer">\par
+<DIV style="font-size: 10pt;">\par
+<DIV id="WqQANb" style="margin: 19px auto; text-align: center;"><BR></DIV><SPAN \par
+id="hp" style="behavior: url(#default#homepage);"></SPAN>\par
+<SCRIPT nonce="cgY8aR7Xd0ySm0rRH2SC/A==">(function()\{var host='www.google.com';try\{new Image().src = '/gen_204?atyp=i&ghp=' +\par
+(document.getElementById('hp').isHomePage(host)?'t' :'f')+ 'bg';\}catch(z)\{\}\par
+\})();</SCRIPT>\par
+</DIV>\par
+<P style="color: rgb(112, 117, 122); font-size: 8pt;">Edited by \par
+Algebra</P></SPAN></CENTER>\par
+<SCRIPT nonce="cgY8aR7Xd0ySm0rRH2SC/A==">(function()\{window.google.cdo=\{height:919,width:1182\};(function()\{\par
+var a=window.innerWidth,b=window.innerHeight;if(!a||!b)\{var c=window.document,d="CSS1Compat"==c.compatMode?c.documentElement:c.body;a=d.clientWidth;b=d.clientHeight\}a&&b&&(a!=google.cdo.width||b!=google.cdo.height)&&google.log("","","/client_204?&atyp=i&biw="+a+"&bih="+b+"&ei="+google.kEI);\}).call(this);\})();</SCRIPT>\par
+ \par
+<SCRIPT nonce="cgY8aR7Xd0ySm0rRH2SC/A==">(function()\{google.xjs=\{ck:'',cs:'',excm:[]\};\})();</SCRIPT>\par
+  \par
+<SCRIPT nonce="cgY8aR7Xd0ySm0rRH2SC/A==">(function()\{var u='/xjs/_/js/k\\x3dxjs.hp.en.8My0PvgdGIk.O/am\\x3dANAEAEACkA/d\\x3d1/ed\\x3d1/esmo\\x3d1/rs\\x3dACT90oEU1j_XU6dPXf_aOosaYY-W-ryAFQ/m\\x3dsb_he,d';\par
+var e=this||self,f=function(a)\{return a\};var g;var l=function(a,b)\{this.g=b===h?a:""\};l.prototype.toString=function()\{return this.g+""\};var h=\{\};\par
+function m()\{var a=u;google.lx=function()\{n(a);google.lx=function()\{\}\};google.bx||google.lx()\}\par
+function n(a)\{google.timers&&google.timers.load&&google.tick&&google.tick("load","xjsls");var b=document;var c="SCRIPT";"application/xhtml+xml"===b.contentType&&(c=c.toLowerCase());c=b.createElement(c);if(void 0===g)\{b=null;var k=e.trustedTypes;if(k&&k.createPolicy)\{try\{b=k.createPolicy("goog#html",\{createHTML:f,createScript:f,createScriptURL:f\})\}catch(p)\{e.console&&e.console.error(p.message)\}g=b\}else g=b\}a=(b=g)?b.createScriptURL(a):a;a=new l(a,h);c.src=a instanceof l&&a.constructor===l?a.g:"type_error:TrustedResourceUrl";var d;a=(c.ownerDocument&&c.ownerDocument.defaultView||window).document;(d=(b=null===(d=a.querySelector)||void 0===d?void 0:d.call(a,"script[nonce]"))?b.nonce||b.getAttribute("nonce")||"":"")&&c.setAttribute("nonce",d);document.body.appendChild(c);google.psa=!0\};google.xjsu=u;setTimeout(function()\{m()\},0);\})();function _DumpException(e)\{throw e;\}\par
+function _F_installCss(c)\{\}\par
+(function()\{google.jl=\{attn:false,blt:'none',chnk:0,dw:false,dwu:true,emtn:0,end:0,ine:false,lls:'default',pdt:0,rep:0,snet:true,strt:0,ubm:false,uwp:true\};\})();(function()\{var pmc='\{\\x22d\\x22:\{\},\\x22sb_he\\x22:\{\\x22agen\\x22:true,\\x22cgen\\x22:true,\\x22client\\x22:\\x22heirloom-hp\\x22,\\x22dh\\x22:true,\\x22dhqt\\x22:true,\\x22ds\\x22:\\x22\\x22,\\x22ffql\\x22:\\x22de\\x22,\\x22fl\\x22:true,\\x22host\\x22:\\x22google.com\\x22,\\x22isbh\\x22:28,\\x22jsonp\\x22:true,\\x22lm\\x22:true,\\x22msgs\\x22:\{\\x22cibl\\x22:\\x22Suche l\'f6schen\\x22,\\x22dym\\x22:\\x22Meintest du:\\x22,\\x22lcky\\x22:\\x22Auf gut Gl\'fcck!\\x22,\\x22lml\\x22:\\x22Weitere Informationen\\x22,\\x22oskt\\x22:\\x22Eingabetools\\x22,\\x22psrc\\x22:\\x22Diese Suchanfrage wurde aus deinem \\\\u003Ca href\\x3d\\\\\\x22/history\\\\\\x22\\\\u003EWebprotokoll\\\\u003C/a\\\\u003E entfernt.\\x22,\\x22psrl\\x22:\\x22Entfernen\\x22,\\x22sbit\\x22:\\x22Bildersuche\\x22,\\x22srch\\x22:\\x22Google Suche\\x22\},\\x22ovr\\x22:\{\},\\x22pq\\x22:\\x22\\x22,\\x22refpd\\x22:true,\\x22rfs\\x22:[],\\x22sbas\\x22:\\x220 3px 8px 0 rgba(0,0,0,0.2),0 0 0 1px rgba(0,0,0,0.08)\\x22,\\x22sbpl\\x22:16,\\x22sbpr\\x22:16,\\x22scd\\x22:10,\\x22stok\\x22:\\x22puQYzm5PeWOpuiFcTiAAz5zA8Qk\\x22,\\x22uhde\\x22:false\}\}';google.pmc=JSON.parse(pmc);\})();</SCRIPT>\par
+        \par
+<SCRIPT src="/xjs/_/js/k=xjs.hp.en.8My0PvgdGIk.O/am=ANAEAEACkA/d=1/ed=1/esmo=1/rs=ACT90oEU1j_XU6dPXf_aOosaYY-W-ryAFQ/m=sb_he,d" nonce="cgY8aR7Xd0ySm0rRH2SC/A=="></SCRIPT>\par
+\par
+<TABLE class="gstl_0 gssb_c" style="left: 335px; top: 233px; width: 512px; display: none; position: absolute;" \par
+cellspacing="0" cellpadding="0">\par
+  <TBODY>\par
+  <TR>\par
+    <TD class="gssb_f"></TD>\par
+    <TD class="gssb_e" style="width: 100%;"></TD></TR></TBODY></TABLE></BODY></HTML>\par
+\par
+}
+ 
